@@ -8,5 +8,5 @@
 	path = Get_next_line
 	url = git@github.com:alexhiguera/Get_Next_Line.git
 [submodule "Born2beroot-Tutorial"]
-	path = Born2beroot-Tutorial
+	path = Born2beroot/Born2beroot-Tutorial
 	url = git@github.com:gemartin99/Born2beroot-Tutorial.git
