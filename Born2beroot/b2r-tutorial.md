@@ -1,6 +1,6 @@
 # Born2beroot-Tutorial 🖥🇪🇸
 
-This guide has versions in different languages. Choose the one you prefer.
+Este tutorial fue creado por @Gerard Martinez
 
 ### English version 🇬🇧
 
