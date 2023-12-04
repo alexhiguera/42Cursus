@@ -1,9 +1,0 @@
-[submodule "Libft"]
-	path = Libft
-	url = git@github.com:alexhiguera/Libft.git
-[submodule "Printf"]
-	path = Printf
-	url = git@github.com:alexhiguera/printf.git
-[submodule "Get_next_line"]
-	path = Get_next_line
-	url = git@github.com:alexhiguera/Get_Next_Line.git
