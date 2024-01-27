@@ -16,3 +16,6 @@
 [submodule "7_Push_swap"]
 	path = 7_Push_swap
 	url = git@github.com:alexhiguera/Push_swap.git
+[submodule "libft_2.0"]
+	path = libft_2.0
+	url = git@github.com:alexhiguera/Libft_2.0.git
