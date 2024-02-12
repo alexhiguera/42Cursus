@@ -16,3 +16,6 @@
 [submodule "libft_2.0"]
 	path = libft_2.0
 	url = git@github.com:alexhiguera/Libft_2.0.git
+[submodule "5_pipex"]
+	path = 5_pipex
+	url = git@github.com:alexhiguera/Pipex.git
