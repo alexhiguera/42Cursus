@@ -7,9 +7,6 @@
 [submodule "4_Get_next_line"]
 	path = 4_Get_next_line
 	url = git@github.com:alexhiguera/Get_Next_Line.git
-[submodule "5_pipex"]
-	path = 5_pipex
-	url = git@github.com:Alexenurduliz42/Pipex.git
 [submodule "6_So_long"]
 	path = 6_So_long
 	url = git@github.com:alexhiguera/So_long.git
