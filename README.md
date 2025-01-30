@@ -13,3 +13,4 @@
 # My progress
 
 <img src="img/roadmap.png"/>
+<img src="img/roadmap-zoom.png"/>
