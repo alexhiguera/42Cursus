@@ -28,37 +28,37 @@ git submodule update --init --recursive
 # 🏗️ Proyectos
 ## 0️⃣ Milestone
 
-📁 **[Libft](git@github.com:alexhiguera/Libft.git)**
+📁 **[Libft](https://github.com/alexhiguera/Libft/tree/main)**
 
 ## 1️⃣ milestone
 
 
-📁 **[Printf](git@github.com:alexhiguera/printf.git)**
+📁 **[Printf](https://github.com/alexhiguera/printf/tree/main)**
 
 📁 **[Born2beroot](3_Born2beroot)**
 
-📁 **[GNL](git@github.com:alexhiguera/Get_Next_Line.git)**
+📁 **[GNL](https://github.com/alexhiguera/Get_Next_Line/tree/main)**
 
 ## 2️⃣ Milestone
 
 
-📁 **[Pipex](git@github.com:alexhiguera/Pipex.git)**
+📁 **[Pipex](https://github.com/alexhiguera/Pipex/tree/main)**
 
-📁 **[So_long](git@github.com:alexhiguera/So_long.git)**
+📁 **[So_long](https://github.com/alexhiguera/So_long/tree/main)**
 
-📁 **[Push_swap](git@github.com:alexhiguera/Push_swap.git)**
+📁 **[Push_swap](https://github.com/alexhiguera/Push_swap/tree/main)**
 
 ## 3️⃣ Milestone
 
-📁 **[Philosophers](git@github.com:alexhiguera/Philosophers.git)**
+📁 **[Philosophers](https://github.com/alexhiguera/Philosophers/tree/main)**
 
-📁 **[Minishell](git@github.com:alexhiguera/minishell.git)**
+📁 **[Minishell](https://github.com/alexhiguera/minishell/tree/main)**
 
 ## 4️⃣ Milestone
 
-📁 **[Cub3d](git@github.com:alexhiguera/42cub3d.git)**
+📁 **[Cub3d](https://github.com/alexhiguera/42cub3d/tree/main)**
 
-📁 **[Cpp 01](git@github.com:alexhiguera/cpp_1.git-01)**
+📁 **[Cpp 01](https://github.com/alexhiguera/cpp_1/tree/main)**
 
 <!--
 ## 5️⃣ Milestone
