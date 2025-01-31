@@ -22,3 +22,6 @@
 [submodule "10_Cub3d"]
 	path = 10_Cub3d
 	url = git@github.com:alexhiguera/42cub3d.git
+[submodule "9_Minishell"]
+	path = 9_Minishell
+	url = git@github.com:alexhiguera/minishell.git
