@@ -28,37 +28,37 @@ git submodule update --init --recursive
 # 🏗️ Proyectos
 ## 0️⃣ Milestone
 
-📁 **[Libft](1_Libft)**
+📁 **[Libft](git@github.com:alexhiguera/Libft.git)**
 
 ## 1️⃣ milestone
 
 
-📁 **[Printf](2_ft_printf)**
+📁 **[Printf](git@github.com:alexhiguera/printf.git)**
 
 📁 **[Born2beroot](3_Born2beroot)**
 
-📁 **[GNL](4_Get_next_line)**
+📁 **[GNL](git@github.com:alexhiguera/Get_Next_Line.git)**
 
 ## 2️⃣ Milestone
 
 
-📁 **[Pipex](5_pipex)**
+📁 **[Pipex](git@github.com:alexhiguera/Pipex.git)**
 
-📁 **[So_long](6_So_long)**
+📁 **[So_long](git@github.com:alexhiguera/So_long.git)**
 
-📁 **[Push_swap](7_Push_swap)**
+📁 **[Push_swap](git@github.com:alexhiguera/Push_swap.git)**
 
 ## 3️⃣ Milestone
 
-📁 **[Philosophers](8_Philosophers)**
+📁 **[Philosophers](git@github.com:alexhiguera/Philosophers.git)**
 
-📁 **[Minishell](9_Minishell)**
+📁 **[Minishell](git@github.com:alexhiguera/minishell.git)**
 
 ## 4️⃣ Milestone
 
-📁 **[Cub3d](10_Cub3d)**
+📁 **[Cub3d](git@github.com:alexhiguera/42cub3d.git)**
 
-📁 **[Cpp 01](11_Cpp-01)**
+📁 **[Cpp 01](git@github.com:alexhiguera/cpp_1.git-01)**
 
 <!--
 ## 5️⃣ Milestone
