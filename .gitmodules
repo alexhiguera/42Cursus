@@ -25,3 +25,6 @@
 [submodule "9_Minishell"]
 	path = 9_Minishell
 	url = git@github.com:alexhiguera/minishell.git
+[submodule "8_Philosophers"]
+	path = 8_Philosophers
+	url = git@github.com:alexhiguera/Philosophers.git
