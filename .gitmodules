@@ -28,3 +28,6 @@
 [submodule "8_Philosophers"]
 	path = 8_Philosophers
 	url = git@github.com:alexhiguera/Philosophers.git
+[submodule "11_Cpp-01"]
+	path = 11_Cpp-01
+	url = git@github.com:alexhiguera/cpp_1.git
